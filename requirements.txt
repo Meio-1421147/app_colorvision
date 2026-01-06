@@ -5,10 +5,12 @@ certifi==2026.1.4
 charset-normalizer==3.4.4
 click==8.3.1
 colorama==0.4.6
+dotenv
 google-genai==1.56.0
 pillow==12.1.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
 requests==2.32.5
+
 
 
